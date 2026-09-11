@@ -28,7 +28,7 @@ A simple console-based math quiz built with Python. The program generates random
 4. Run:
 
 ```bash
-python math_quiz.py
+python_math_quiz.py
 ```
 
 ## Purpose
